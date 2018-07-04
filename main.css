@@ -1,0 +1,38 @@
+body {
+	visibility:hidden;
+	background-color:#AAFFFF;
+	font-size: 12px;
+	padding-left: 2px;
+}
+
+h1 {
+	font-size: 20px;
+	text-align:center;
+}
+
+.graph-a {
+	background-color: red;
+	color:white;
+}
+
+.graph-b {
+	background-color:blue;
+	color:white;
+}
+
+.graph-c {
+	background-color:green;
+	color:white;
+}
+
+.graph {
+	height:20px;
+	min-width:0px;
+	display:block;
+	text-align:right;
+	margin:2px;
+}
+
+.detail {
+	max-width: 700px;
+}	
